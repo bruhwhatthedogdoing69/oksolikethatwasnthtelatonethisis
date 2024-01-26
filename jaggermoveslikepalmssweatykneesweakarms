@@ -40,7 +40,6 @@ local queueteleport = syn and syn.queue_on_teleport or queue_on_teleport or flux
 
 -- CONFIGURE ANYTHING BELOW
 
-shared.mod = true -- Turn this off and re-run the script to disable the mod (or just use !closemod)
 shared.gpcheck = true -- Only boot if you have the gamepass (recommended for autoexec). Cannot be altered after the script ran obviously
 shared.p2p = false -- This will enable perm to persons. Re-run the script and turn this off to disable the mod (or just use !s to switch)
 shared.padgrab = true -- Set this to true if your account has no perm
